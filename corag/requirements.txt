@@ -1,12 +1,12 @@
 torch==2.4.0
-transformers==4.46.3
-datasets==2.20.0
+transformers==5.22.1
+datasets==5.1.0
 tqdm
-accelerate==1.0.0
+accelerate==1.15.0
 flash-attn==2.7.0.post2
 rouge
 nltk
-vllm==0.6.0
+vllm==0.32.0
 azure-identity==1.17.1
 openai==1.55.3
 starlette
